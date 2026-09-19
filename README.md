@@ -1,2 +1,5 @@
-# on-edge-hair-website
-Website for On Edge Hair, Barber &amp; Beauty
+name = "on-edge-hair"
+compatibility_date = "2026-09-19"
+
+[assets]
+directory = "."
